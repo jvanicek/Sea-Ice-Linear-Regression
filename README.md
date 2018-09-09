@@ -2,7 +2,7 @@
 
 Using March and September Artic Sea Ice data. This will use a simple linear regression to estimate when the artic sea ice will melt away completely
 
-Using the function within arcticSeaIce.py, this program reads in the data from data_79_16.csv, calculates the means and anomalies for the March and Septmeber, gets the parameters from that data using OLS, and uses the parameters to make a prediction of when the Sea Ice will melt away for the winter and summer months. 
+Using the functions within arcticSeaIce.py. This program reads in the data from data_79_16.csv, calculates the means and anomalies for the March and Septmeber, gets the parameters from the data using OLS, and uses the parameters to make a prediction of when the Sea Ice will melt away for the winter and summer months. 
 
 Will create two graphs representing the mean, anolmaly and regression data for march and september.
 
