@@ -1,7 +1,6 @@
 '''
-Author: Jospeh Vanicek
+Author: Joseph Vanicek
 Date: 11/2/2017
-Class: ISTA 131
 
 Description:
 Using March and September Artic Sea Ice data. This will use a simple linear regression to estimate when the artic sea ice will melt away completely
@@ -144,7 +143,7 @@ def make_fig_2(get_Mar_Sept_frame):
 #==========================================================
 def main():
     '''
-    Using the function above, this reads and the data, calculates the means and anomalies for the MArch and Septmeber. 
+    Using the function above, this reads and the data, calculates the means and anomalies for the March and Septmeber. 
     Gets the parameters from that data using OLS, and uses the parameters to make a prediction of when the Sea Ice will melt away for the winter and summer months. 
     Will create two graphs representing the mean, anolmaly and regression data for march and september.
 
