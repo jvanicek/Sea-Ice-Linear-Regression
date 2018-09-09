@@ -8,12 +8,12 @@ Will create two graphs representing the mean, anolmaly and regression data for m
 
 
 ## Expected Text Output
-Winter prediction 2379
-76.0% of variation in Artic Sea Ice accounted for by Time (linear model)
-Significance level of results: 0.0%
-This result is statistically significant.
+Winter prediction 2379 <br/>
+76.0% of variation in Artic Sea Ice accounted for by Time (linear model) <br/>
+Significance level of results: 0.0% <br/>
+This result is statistically significant. <br/>
 
-Summer prediction 2071
-75.0% of variation in Artic Sea Ice accounted for by Time (linear model)
-Significance level of results: 0.0%
-This result is statistically significant.
+Summer prediction 2071 <br/>
+75.0% of variation in Artic Sea Ice accounted for by Time (linear model) <br/>
+Significance level of results: 0.0% <br/>
+This result is statistically significant. <br/>
